@@ -1,1 +1,1 @@
-# odin-recipes
+A simple html project to learn the basics, part of The Odin Project foundations course.
